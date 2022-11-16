@@ -6,7 +6,7 @@
 }
 body{
    min-height: 100vh;
-   background: dodgerblue;
+   background:linear-gradient(45deg, green, #fff, dodgerblue);
    display: flex;
    align-items: center;
    justify-content: center;
